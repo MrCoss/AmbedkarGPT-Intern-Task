@@ -1,4 +1,4 @@
-# AmbedkarGPT-Intern-Task
+# AmbedkarGPT
 
 **Submission for the Kalpit Pvt. Ltd. — AI Intern Hiring Assignment**
 
